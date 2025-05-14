@@ -31,7 +31,7 @@ React-YouTube	Video Playback
 
 ## ⚙️ Installation & Setup
 1. Clone the Repo for backend  https://github.com/Ravi-Rathod143/Yt-back.git    
-2. Clone the Repo for frontend  https://github.com/Ravi-Rathod143/Yt-back.git    
+2. Clone the Repo for frontend  https://github.com/Ravi-Rathod143/Youtube-clone.git    
 
 git clone 
 cd backend
