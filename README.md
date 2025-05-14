@@ -1,7 +1,7 @@
-🎥 YouTube Clone (MERN Stack)
+## 🎥 YouTube Clone (MERN Stack)
 A full-stack YouTube Clone web application built with MongoDB, Express, React, and Node.js (MERN) that allows users to register/login, create channels, upload videos using real YouTube video IDs, comment, and view history. Fully responsive and production-ready.
 
-🚀 Features
+## 🚀 Features
 🔐 User Authentication (Login / Register)
 🧑‍💼 Channel Creation, Update & Delete
 📤 Upload and Manage YouTube Videos
@@ -15,7 +15,7 @@ A full-stack YouTube Clone web application built with MongoDB, Express, React, a
 
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Tech	Usage
 React	Frontend UI
 Redux Toolkit	State Management
@@ -29,7 +29,7 @@ React-YouTube	Video Playback
 
 
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 1. Clone the Repo for backend  https://github.com/Ravi-Rathod143/Yt-back.git    
 2. Clone the Repo for frontend  https://github.com/Ravi-Rathod143/Yt-back.git    
 
@@ -39,17 +39,24 @@ npm install
 
 cd Youtube-frontend
 npm install
-2. Backend .env file
+# 2. Backend .env file
+
 PORT=5000
+
 MONGO_URI=your_mongodb_connection_string
+
 JWT_SECRET=your_jwt_secret
-3. Frontend .env file
+
+# 3. Frontend .env file
 VITE_API_ROUTES = http://localhost:5000/api/v1
-4. Run both backend and frontend
+
+# 4. Run both backend and frontend
 npm run dev.
-Authors
+
+## Authors
 @Ravikant Rathod
-🚀 About Me
+
+## 🚀 About Me
 I'm a MERN Stack developer with a Bachelor of engineering Computer Science graduate from Svaitribai Phule Pune university,
 
 I have honed my abilities in various programming languages, JavaScript, Python, and Web tech. ical expertise.
@@ -58,5 +65,5 @@ With a commendable 8.18 CGPA, I am now actively seeking  jobs where I can apply 
 
 As a lifelong learner, I am committed to continuous growth and staying at the forefront of the ever-evolving tech industry. Embracing new challenges and learning emerging technologies will empower me to thrive in future endeavors.
 
-🛠 Skills
+## 🛠 Skills
 C++, JavaScript, Python, HTML, CSS, MongoDB, ExpressJs, ReactJs, NodeJs, TailwindCss.
